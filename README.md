@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">___________________________________________________________________________________________________________________________</p>
+<p align="left">________________________________________________________________________________________________________________________________________________________</p>
 
 ###
 
@@ -29,17 +29,13 @@
 
 <br clear="both">
 
-<p align="left">___________________________________________________________________________________________________________________________</p>
+<p align="left">________________________________________________________________________________________________________________________________________________________</p>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Techs</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
@@ -83,11 +79,5 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/0mariapaula/0mariapaula/output/snake.svg" alt="Snake animation" />
 
 ###
